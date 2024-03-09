@@ -1,0 +1,137 @@
+.main-div-purchareindex {
+  width: 79%;
+  height: 100vh;
+  margin-top: 88px;
+  margin-left: 208px;
+}
+
+.submit-button {
+  border-radius: 10px !important;
+  background: #a1a1a1 !important;
+  display: inline-flex !important;
+  padding: 16px 32px !important;
+}
+
+.print-button {
+  border-radius: 10px !important;
+  background: #07a84b !important;
+  display: inline-flex !important;
+  padding: 16px 32px !important;
+  gap: 10px;
+}
+
+.submit-button-box {
+  margin-right: 20px;
+}
+
+.print-submit-button-box {
+  display: flex;
+  float: right;
+  margin: 10% 3% 0 0;
+}
+
+.purchaseindents-inner-main-box {
+  margin-left: 7%;
+}
+.registration-purchareindex {
+  display: flex;
+  width: 100%;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #d8e5ff;
+  margin-top: 24px;
+}
+
+.css-zxdg2z {
+  padding: 0 !important;
+}
+
+.css-4jnixx-MuiStack-root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden !important;
+}
+
+.itemTable {
+  margin-top: 4%;
+  padding-left: 2%;
+}
+
+.placeholder-padding {
+  color: #96adbb !important;
+  font-family: Poppins !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+  padding-top: 10px !important;
+  height: 3.1rem !important;
+}
+
+.purchaseindents-user-name {
+  display: flex;
+  margin-top: 32px;
+}
+
+.indent-number-box {
+  margin-left: 30px;
+}
+
+.text-header {
+  margin: 0 0 0 27px !important;
+  color: #000 !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+}
+
+.purchaseIndents-background {
+  background: #f5fbff;
+}
+.purchaseindents-box {
+  width: 76%;
+  height: 1600px;
+  background: #fff;
+}
+
+.text-header-inputfeilds {
+  padding: 0 0 10px 12px !important;
+  color: #000 !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+}
+
+.authorized-date-box {
+  margin-left: 30px;
+  width: 100%;
+}
+
+.indent-date-box {
+  margin-left: 10px;
+}
+
+.indent-type-box {
+  margin-left: 30px;
+}
+
+.multipleselect-retailer {
+  margin-right: 5.8%;
+  margin-left: 9.5%;
+}
+
+.puchase-indents-outlined-basic {
+  border-radius: 10px !important;
+  border: 2px solid #c8e9ff !important;
+  width: 70.5% !important;
+  height: 63px !important;
+  flex-shrink: 0 !important;
+  padding: 0;
+}
+
+.purchaseindents {
+  width: 100%;
+}

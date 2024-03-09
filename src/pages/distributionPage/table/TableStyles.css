@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+
+.table-container {
+  display: grid;
+  gap: 10px;
+}
+
+.tableBody {
+  text-align: center;
+}
+
+.table {
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+  width: 96%;
+  align-items: center;
+  justify-content: center;
+}
+
+.bordercollapse {
+  border-collapse: collapse;
+  border-left: 2px solid #d8e5ff;
+}
+
+.inactive-status,
+.active {
+  border-left: 2px solid #d8e5ff;
+  border-right: 2px solid #d8e5ff;
+}
+
+.tablehead,
+.tabledata {
+  text-align: center !important;
+  border-left: 2px solid #d8e5ff;
+  border-right: 2px solid #d8e5ff;
+  padding: 8px;
+  text-align: left;
+  margin: 0;
+}
+.table-pagination {
+  margin-right: 3%;
+}
+
+.tablehead {
+  width: 2%;
+  background-color: #d8e5ff;
+  height: 63px;
+  border-top: 2px solid #d8e5ff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.tablehead:nth-child(2),
+.tabledata:nth-child(2) {
+  text-align: center;
+  padding-left: 30px;
+}
+
+.tablehead:nth-child(4),
+.tabledata:nth-child(4) {
+  text-align: center;
+}
+
+.tablerow {
+  height: 41px;
+  border-bottom: 2px solid #d8e5ff;
+}
+
+.tablerow:first-child {
+  height: 25px;
+}
+
+.tablerow:nth-child(even) {
+  border-collapse: collapse;
+  background-color: #d8e5ff;
+}
+
+#icon-trash-can {
+  margin-bottom: 6px;
+  margin-left: 5px;
+}
+
+.active {
+  color: #000;
+  font-family: Poppins;
+  font-size: 15.379px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.inactive-status {
+  color: #db0000;
+  font-family: Poppins;
+  font-size: 15.087px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.tabledata-border {
+  border-bottom: 2px solid #d8e5ff;
+  border-radius: 0 0 10px 10px;
+}
+.tabledata-border-sr {
+  border-bottom: 2px solid #d8e5ff;
+  border-right: none;
+  border-radius: 0 0 0 10px;
+}
+.tabledata-border-id {
+  border-bottom: 2px solid #d8e5ff;
+  border-radius: 0 0 10px 0;
+}
+#serail-number {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18.087px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+#phone-number {
+  color: #000;
+  font-family: Poppins;
+  font-size: 15.379px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}

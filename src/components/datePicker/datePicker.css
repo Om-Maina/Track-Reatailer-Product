@@ -1,0 +1,21 @@
+#datePicker {
+  width: 30% !important;
+  height: 9%;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #000;
+  background: #fff;
+}
+
+.css-ymqfn8-MuiStack-root {
+  overflow: hidden !important;
+}
+
+#datepicker-main {
+  width: 311px !important;
+  height: 56px !important;
+  flex-shrink: 0;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 58px;
+}

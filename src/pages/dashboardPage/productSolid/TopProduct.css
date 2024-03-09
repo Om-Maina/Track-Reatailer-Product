@@ -1,0 +1,60 @@
+#product-name {
+  color: #1f1f1f !important;
+  /* font-family: Montserrat !important; */
+  font-size: 16.615px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+}
+
+#product-image {
+  width: 113px !important;
+  top: -20px !important;
+  height: 88px !important;
+  flex-shrink: 0;
+}
+
+#top-serial-number {
+  color: #000 !important;
+  /* font-family: Montserrat !important; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  font-size: 20.769px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  width: 37.285px !important;
+}
+
+.Product-Heading {
+  display: flex;
+}
+
+#Product-Produced {
+  width: 30% !important;
+  color: #000 !important;
+  /* font-family: Poppins !important; */
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+
+.Image-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#NamePicker {
+  width: 30%;
+  margin-left: 50%;
+  margin-bottom: 16px;
+}
+
+#items {
+  align-items: center;
+  justify-content: center;
+  margin-left: 35%;
+}

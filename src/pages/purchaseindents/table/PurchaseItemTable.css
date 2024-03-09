@@ -1,0 +1,113 @@
+.AllTotalRow {
+  border-radius: 10px;
+  background: #dce8ff;
+  height: 85px;
+}
+
+.purchase-tablehead {
+  height: 64px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.purchase-tablehead {
+  border-radius: 10px !important;
+  background: #dce8ff !important;
+  text-align: center !important;
+  border: 2px solid #d8e5ff !important;
+  margin: 0;
+}
+.purchase-tablehead-sr {
+  width: 70px;
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+.purchase-tablehead-itemdescription {
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  width: 210px;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+.purchase-tablehead-unit {
+  border-radius:10px;
+  border: 2px solid #c8e9ff;
+  width: 127px;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+.purchase-tablehead-required {
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  width: 126px;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+.purchase-tablehead-stock {
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  width: 116px;
+  background: #dce8ff;
+}
+
+.purchase-tablehead-rate {
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  width: 127px;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+
+.purchase-tablehead-total {
+  width: 126px;
+  border-radius: 10px;
+  border: 2px solid #c8e9ff;
+  height: 64px;
+  flex-shrink: 0;
+  background: #dce8ff;
+}
+
+.purchade-tabledata {
+  text-align: center;
+  border-left: 2px solid #d8e5ff;
+  border-right: 2px solid #d8e5ff;
+  /* border-top: none !important; */
+  border-top-width: 0px;
+  border-bottom: none !important;
+  padding: 8px;
+  margin: 0;
+}
+
+#table-Item {
+  /* border-collapse: separate; */
+  /* border-spacing: 2px; */
+  /* border-collapse: 10px; */
+  width: 100%;
+}
+
+.totalsum-amount {
+  padding-right: 2.2%;
+  float: right;
+  color: #000 !important;
+  font-family: Poppins;
+  font-size: 20px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+
+.total-text {
+  margin-left: 50%;
+  color: #000;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

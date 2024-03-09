@@ -1,0 +1,176 @@
+.css-zxdg2z {
+  padding: 0 !important;
+}
+
+.css-4jnixx-MuiStack-root {
+  overflow: hidden !important;
+}
+
+.addRetailer-main-box {
+  flex-direction: column;
+  width: 83%;
+  margin-top: 88px;
+  margin-left: 208px;
+}
+
+.addRetailer-box-color {
+  height: 1600px;
+}
+
+.text-header-bank-details-addretailer {
+  color: #000 !important;
+  /* font-family: Poppins; */
+  font-size: 1.125rem !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  line-height: normal;
+}
+
+.text-header-addretailer {
+  margin: 0 0 6px 40px !important;
+  color: #000 !important;
+  /* font-family: Poppins; */
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+}
+
+.SpouseName {
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.company-address {
+  margin: 0;
+}
+
+.user-contact-ifsc-aadhar {
+  margin-left: 11%;
+}
+
+.placeholder-padding {
+  padding: 0 0 0 21px !important;
+  color: #96adbb !important;
+  /* font-family: Poppins; */
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+}
+
+.registration {
+  display: flex;
+  width: 100%;
+  height: 64px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #d8e5ff;
+  margin-top: 24px;
+}
+
+.text-registration {
+  margin: 19px 0px 18px 14px !important;
+  color: #000 !important;
+  /* font-family: Poppins !important; */
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+.selected-file-name {
+  margin: 10px 0 0 10% !important;
+  color: RGB(25, 135, 84);
+}
+.BackIcon {
+  width: 17px !important;
+  height: 13px !important;
+  flex-shrink: 0 !important;
+  stroke-width: 2px !important;
+  stroke: #202020 !important;
+  margin: 19px 0px 24px 31px !important;
+}
+
+#outlined-basic-contac {
+  border-radius: 10px !important;
+  border: 2px solid #c8e9ff !important;
+  height: 63px !important;
+  flex-shrink: 0 !important;
+  padding: 0;
+  margin-left: 23px;
+}
+
+#outlined-basic {
+  border-radius: 10px !important;
+  border: 2px solid #c8e9ff !important;
+  width: 270px !important;
+  flex-shrink: 0 !important;
+  padding: 0;
+  margin-left: 23px;
+}
+
+#DateOfBirth {
+  border-radius: 10px !important;
+  border: 2px solid #c8e9ff !important;
+  width: 176px;
+  height: 63px;
+  flex-shrink: 0;
+  overflow: visible !important;
+  padding: 0;
+  margin-left: 23px;
+}
+
+.User-name {
+  display: flex;
+  margin-top: 32px;
+  margin-left: 11px !important;
+}
+
+.bank-details-box {
+  margin-top: 10px;
+  margin-left: 55px;
+}
+
+.YourName {
+  color: #000 !important;
+  /* font-family: Poppins; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 6px !important;
+}
+
+.upload {
+  margin-left: 23px !important;
+  width: 296px !important;
+  height: 63px !important;
+  flex-shrink: 0;
+  text-transform: none !important;
+}
+
+.accountNumber-main-box {
+  display: flex;
+}
+
+.text-field {
+  margin-right: 91px !important;
+}
+
+.text-registration-details {
+  margin: 19px 0px 5px 61px !important;
+  color: #000 !important;
+  /* font-family: Poppins !important; */
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+}
+
+.Date-of-Registration {
+  margin-left: 11% !important;
+}
+
+.DateoFBirth-box {
+  margin-left: 2px !important;
+}

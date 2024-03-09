@@ -1,0 +1,40 @@
+.avatar {
+  width: 43.147px;
+  height: 43.147px;
+}
+
+.card {
+  width: 174.887px;
+  height: 60.98px;
+  margin: 18.41px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18.41px;
+  padding: 10px; 
+  border: none; 
+  background-color: none; 
+  box-shadow: none !important; 
+  border: none;
+}
+
+.user-text {
+  color: #000;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 9.83px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+}
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  background-color: transparent !important; 
+  box-shadow: none !important; 
+}

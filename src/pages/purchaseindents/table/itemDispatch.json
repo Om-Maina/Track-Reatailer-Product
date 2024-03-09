@@ -1,0 +1,84 @@
+ [
+    {
+      "sr": "1",
+      "ItemDescription": "Butter",
+      "Unit": "Kg",
+      "RequiredQuantity": "12",
+      "StockQuantity": "23",
+      "Rate": "100",
+      "Total": "1200"
+    },
+    {
+      "sr": "2",
+      "ItemDescription": "Matta",
+      "Unit": "L",
+      "RequiredQuantity": "13",
+      "StockQuantity": "45",
+      "Rate": "200",
+      "Total": "2000"
+    },
+    {
+      "sr": "3",
+      "ItemDescription": "Cheese",
+      "Unit": "L",
+      "RequiredQuantity": "11",
+      "StockQuantity": "20",
+      "Rate": "50",
+      "Total": "5200"
+    },
+    {
+      "sr": "4",
+      "ItemDescription": "Paneer",
+      "Unit": "Kg",
+      "RequiredQuantity": "12",
+      "StockQuantity": "50",
+      "Rate": "100",
+      "Total": "2200"
+    },
+    {
+      "sr": "5",
+      "ItemDescription": "Ghee",
+      "Unit": "L",
+      "RequiredQuantity": "15",
+      "StockQuantity": "24",
+      "Rate": "100",
+      "Total": "1200"
+    },
+    {
+      "sr": "6",
+      "ItemDescription": "Milk",
+      "Unit": "L",
+      "RequiredQuantity": "16",
+      "StockQuantity": "25",
+      "Rate": "200",
+      "Total": "3200"
+    },
+    {
+      "sr": "7",
+      "ItemDescription": "Dahi",
+      "Unit": "Kg",
+      "RequiredQuantity": "19",
+      "StockQuantity": "40",
+      "Rate": "50",
+      "Total": "1200"
+    },
+    {
+      "sr": "8",
+      "ItemDescription": "Flavored Milk",
+      "Unit": "L",
+      "RequiredQuantity": "12",
+      "StockQuantity": "23",
+      "Rate": "100",
+      "Total": "1200"
+    },
+    {
+      "sr": "",
+      "ItemDescription": "",
+      "Unit": "",
+      "RequiredQuantity": "",
+      "StockQuantity": "",
+      "Rate": "",
+      "Total": ""
+    }
+  ]
+

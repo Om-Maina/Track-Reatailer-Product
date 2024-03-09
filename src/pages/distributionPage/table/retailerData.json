@@ -1,0 +1,24 @@
+[
+   
+    {"sr": "1", "id": "ID 20231RdAJ", "name": "Advik Joshi", "phone": "9334 03 3424", "status": "active", "icon": "show"},
+    {"sr": "2", "id": "ID 20232RdA", "name": "Arnav ", "phone": "9822 99 3245", "status": "active", "icon": "show"},
+    {"sr": "3", "id": "ID 2033RdDM", "name": "Dhruv Mishra", "phone": "7342 03 4246", "status": "active", "icon": "show"},
+    {"sr": "4", "id": "ID 20234dAG", "name": "Aryan Gupta", "phone": "9324 53 3424", "status": "active", "icon": "show"},
+    {"sr": "5", "id": "ID 20K5RdRK", "name": "Rishi Kapoor", "phone": "7832 90 2234", "status": "active", "icon": "show"},
+    {"sr": "6", "id": "ID 203DGdSM", "name": "Shaurya Malik", "phone": "9034 53 2358", "status": "active", "icon": "show"},
+    {"sr": "7", "id": "ID 24537RdKS", "name": "Kabir Sharma", "phone": "9135 24 5324", "status": "active", "icon": "show"},
+    {"sr": "8", "id": "ID 20238RdPR", "name": "Pranav Reddy", "phone": "8343 24 8953", "status": "active", "icon": "show"},
+    {"sr": "9", "id": "ID 20239RdVP", "name": "Vihaan Patel", "phone": "6385 93 2353", "status": "inactive", "icon": "show"},
+    {"sr": "10", "id": "ID 202310RdM", "name": "Krish Mehra", "phone": "9442 54 3429", "status": "active", "icon": "show"},
+    {"sr": "11", "id": "ID 202311RDC", "name": "Vivaan C", "phone": "8454 93 9834", "status": "active", "icon": "show"},
+    {"sr": "12", "id": "ID 202312RABd", "name": "Aarush Banerjee", "phone": "9334 45 2443", "status": "inactive", "icon": "show"},
+    {"sr": "13", "id": "ID 202312RAB", "name": "Reyansh Kumar", "phone": "9832 45 2495", "status": "inactive", "icon": "show"},
+    {"sr": "14", "id": "ID 2023D3RNK", "name": "Amov", "phone": "9853 34 2345", "status": "active", "icon": "show"},
+    {"sr": "15", "id": "ID 202313RAV", "name": "Aadi Verma", "phone": "9023 85 5789", "status": "inactive", "icon": "show"},
+    {"sr": "16", "id": "emp16", "name": "Amov", "phone": "7342 03 4248", "status": "active", "icon": "show"},
+    {"sr": "17", "id": "emp17", "name": "Dhruv Mishra", "phone": "343 24 8953", "status": "active", "icon": "show"},
+    {"sr": "18", "id": "emp18", "name": "Advik Joshi", "phone": "9822 99 3245", "status": "inactive", "icon": "show"},
+    {"sr": "19", "id": "emp19", "name": "Amov", "phone": "7342 03 4248", "status": "active", "icon": "show"},
+    {"sr": "20", "id": "emp20", "name": "Dhruv Mishra", "phone": "343 24 8953", "status": "inactive", "icon": "show"}
+  ]
+  
